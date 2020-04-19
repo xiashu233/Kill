@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2038ed5b-cd56-4ba5-95bd-d8f1e6345ef2" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="jsf" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zi8tEC0sxmBlRpRCIJVidDdhPU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginindexNum" value="1347" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Cus&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/CustomRealm.java&#10;Ran&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/utils/RandomUtil.java&#10;applica&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/resources/application.properties&#10;Rand&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/utils/RandomUtil.java&#10;info&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;info.jsp[&#9;null&#9;null&#10;KillContr&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;login&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/login.jsp&#10;usercon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/UserController.java&#10;Kilcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;Itemcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/ItemController.java&#10;userco&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/UserController.java&#10;Shirocon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/ShiroConfig.java&#10;DefaultSec&#9;PSI&#9;JAVA://org.apache.shiro.mgt.DefaultSecurityManager&#10;login.jsp&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/login.jsp&#10;pom.xml&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/pom.xml&#10;executeSuccess&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/executeSuccess.jsp&#10;info.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;KillCon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;Zook&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/ZooKeeperConfig.java&#10;Kill&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/IKillService.java&#10;InteProcesMute&#9;PSI&#9;JAVA://org.apache.curator.framework.recipes.locks.InterProcessMutex&#10;RSEt&#9;PSI&#9;JAVA://org.redisson.api.RSet&#10;pom.&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/pom.xml&#10;killRecord&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/killRecord.jsp&#10;ItemKillSu&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/resources/mappers/ItemKillSuccessMapper.xml&#10;Sched&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/SchedulerService.java&#10;Ra&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java&#10;Main&#9;RUN_CONFIGURATION&#9;MainApplication&#10;Item&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/resources/mappers/ItemKillSuccessMapper.xml&#10;Rabb&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java&#10;Rabbitmqconfig&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/RabbitmqConfig.java&#10;KillService&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/impl/KillService.java&#10;KillController&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;rabbit&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/RabbitmqConfig.java&#10;KillSuccessma&#9;PSI&#9;JAVA://com.debug.kill.model.mapper.ItemKillSuccessMapper&#10;kill&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;executeFail&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/executeFail.jsp&#10;Sta&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/api/src/main/java/com/debug/kill/api/enums/StatusCode.java&#10;Itecon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/ItemController.java&#10;in&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;info.j&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;Killcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;ItemKillSucce&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/java/com/debug/kill/model/mapper/ItemKillSuccessMapper.java&#10;lis&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/list.jsp&#10;we&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/welcome.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.debug.kill.server.config" />
+      <recent name="com.debug.kill.server.utils" />
+      <recent name="com.debug.kill.api.response" />
+      <recent name="com.debug.kill.api.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\毕设\秒杀场景\kill\server\src\main\webapp\WEB-INF\views" />
+      <recent name="E:\WorkSpaceTeaching\kill\server\src\main\webapp\WEB-INF\views" />
+      <recent name="E:\WorkSpaceTeaching\kill\server\src\main\webapp\static\plugins" />
+      <recent name="E:\WorkSpaceTeaching\kill\server\src\main\webapp\static\css" />
+      <recent name="E:\WorkSpaceTeaching\kill\model\src\main\resources\mappers" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat7">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="RandomUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.kill.server.utils.RandomUtil" />
+      <module name="server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.kill.server.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFlake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.kill.server.utils.SnowFlake" />
+      <module name="server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.kill.server.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.kill.server.MainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.96" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="server:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/kill" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_kill_3" />
+        <option name="HTTP_PORT" value="8092" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53648" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="58365" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="server:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.RandomUtil" />
+      <item itemvalue="Application.SnowFlake" />
+      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="Tomcat Server.tomcat7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomUtil" />
+        <item itemvalue="Application.SnowFlake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.12824675" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2038ed5b-cd56-4ba5-95bd-d8f1e6345ef2" name="Default" comment="" />
+      <created>1560436740799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560436740799</updated>
+      <workItem from="1560436742404" duration="5500000" />
+      <workItem from="1560519575957" duration="4026000" />
+      <workItem from="1560656120591" duration="16000" />
+      <workItem from="1560660356760" duration="3509000" />
+      <workItem from="1560697102903" duration="1488000" />
+      <workItem from="1560778206756" duration="5391000" />
+      <workItem from="1560949325474" duration="2354000" />
+      <workItem from="1561034378867" duration="6625000" />
+      <workItem from="1561119430651" duration="9989000" />
+      <workItem from="1561547921286" duration="1214000" />
+      <workItem from="1561702500312" duration="7046000" />
+      <workItem from="1561809383381" duration="6525000" />
+      <workItem from="1561974176760" duration="30033000" />
+      <workItem from="1585310768413" duration="2098000" />
+      <workItem from="1586353482550" duration="751000" />
+      <workItem from="1586354250866" duration="1066000" />
+      <workItem from="1586501444747" duration="3474000" />
+      <workItem from="1586568169301" duration="25000" />
+      <workItem from="1586750322344" duration="2513000" />
+      <workItem from="1586755247445" duration="3032000" />
+      <workItem from="1586760684236" duration="126000" />
+      <workItem from="1586760818127" duration="5886000" />
+      <workItem from="1586827267838" duration="3572000" />
+      <workItem from="1586851888444" duration="48000" />
+      <workItem from="1586864280107" duration="3093000" />
+      <workItem from="1586912652123" duration="1135000" />
+      <workItem from="1586918912452" duration="9335000" />
+      <workItem from="1586939504150" duration="5156000" />
+      <workItem from="1586995365818" duration="2156000" />
+      <workItem from="1586998798094" duration="1994000" />
+      <workItem from="1587196629707" duration="34000" />
+      <workItem from="1587295425502" duration="2847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586760726403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586760726403" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587196661526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587196661526" />
+    <state width="1610" height="555" key="GridCell.Tab.0.bottom" timestamp="1586935593495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593495" />
+    <state width="1610" height="555" key="GridCell.Tab.0.center" timestamp="1586935593495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593495" />
+    <state width="1610" height="555" key="GridCell.Tab.0.left" timestamp="1586935593495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593495" />
+    <state width="1610" height="555" key="GridCell.Tab.0.right" timestamp="1586935593495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593495" />
+    <state width="1610" height="555" key="GridCell.Tab.1.bottom" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.1.center" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.1.left" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.1.right" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.2.bottom" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.2.center" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.2.left" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.2.right" timestamp="1586935593496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586935593496" />
+    <state width="1610" height="555" key="GridCell.Tab.3.bottom" timestamp="1586867509195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586867509195" />
+    <state width="1610" height="555" key="GridCell.Tab.3.center" timestamp="1586867509195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586867509195" />
+    <state width="1610" height="555" key="GridCell.Tab.3.left" timestamp="1586867509195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586867509195" />
+    <state width="1610" height="555" key="GridCell.Tab.3.right" timestamp="1586867509195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1610" height="555" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586867509195" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586961397179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586961397179" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587196629753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587196629753" />
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586764760275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1586764760275" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1586765222484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586765222484" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586920329726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586920329726" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/service/impl/KillService.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/service/MailService.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/controller/KillController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>server:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
